@@ -106,4 +106,6 @@ The platform uses Google Gemini to analyze your spreadsheet data:
 This project is private and proprietary.
 
 ---
+<img width="1219" height="851" alt="image" src="https://github.com/user-attachments/assets/4c1339b2-bd56-4dae-9e5b-89e75f61ba59" />
+
 
