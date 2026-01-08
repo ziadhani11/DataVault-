@@ -1,6 +1,6 @@
 <img width="176" height="62" alt="image" src="https://github.com/user-attachments/assets/a535cd3e-bb93-46c6-9724-481dd54fa13e" />
 
-# DataVault AI Dashboard
+# DataVault 
 
 A modern web-based data analytics platform that transforms your Excel and CSV files into beautiful, interactive dashboards powered by AI.
 
