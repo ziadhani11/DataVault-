@@ -1,0 +1,4 @@
+project_id = "bwxcvdkmndrpcfixdmnj"
+
+[functions.suggest-charts]
+verify_jwt = false
